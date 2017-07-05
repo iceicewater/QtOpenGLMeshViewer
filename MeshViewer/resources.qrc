@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/container2.png</file>
+        <file>images/container2_specular.png</file>
+        <file>images/wall.jpg</file>
+        <file>shaders/simple.frag</file>
+        <file>shaders/simple.vert</file>
+        <file>images/grass.png</file>
+        <file>images/blending_transparent_window.png</file>
+        <file>images/skybox/back.jpg</file>
+        <file>images/skybox/bottom.jpg</file>
+        <file>images/skybox/front.jpg</file>
+        <file>images/skybox/left.jpg</file>
+        <file>images/skybox/right.jpg</file>
+        <file>images/skybox/top.jpg</file>
+        <file>shaders/skybox.vert</file>
+        <file>models/primitive/cube.obj</file>
+        <file>models/primitive/cone.obj</file>
+        <file>models/primitive/cylinder.obj</file>
+        <file>models/primitive/pyramid.obj</file>
+        <file>models/primitive/sphere.obj</file>
+        <file>models/primitive/teapot.obj</file>
+        <file>models/primitive/torus.obj</file>
+        <file>models/primitive/tube.obj</file>
+        <file>shaders/phong.frag</file>
+        <file>shaders/phong.vert</file>
+        <file>shaders/normal.vert</file>
+        <file>shaders/normal.geom</file>
+        <file>images/brickwall.jpg</file>
+        <file>images/brickwall_normal.jpg</file>
+        <file>models/primitive/plane.obj</file>
+        <file>shaders/edge.vert</file>
+        <file>shaders/simple2d.frag</file>
+        <file>shaders/simple3d.frag</file>
+        <file>shaders/quad.vert</file>
+        <file>shaders/postprocessing.frag</file>
+    </qresource>
+</RCC>
